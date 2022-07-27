@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WS2812-MiniScreen.PrjPcb]
+   Generated File[MiniScreen.TXT]
+   Generated File[MiniScreen.LDP]
+   Generated File[MiniScreen.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:04:50 PM On 7/27/2022

@@ -1,0 +1,316 @@
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=L? NewDesignator=L4
+Change Component Designator: OldDesignator=L? NewDesignator=L5
+Change Component Designator: OldDesignator=L? NewDesignator=L6
+Change Component Designator: OldDesignator=L? NewDesignator=L7
+Change Component Designator: OldDesignator=L? NewDesignator=L8
+Change Component Designator: OldDesignator=L? NewDesignator=L9
+Change Component Designator: OldDesignator=L? NewDesignator=L10
+Change Component Designator: OldDesignator=L? NewDesignator=L11
+Change Component Designator: OldDesignator=L? NewDesignator=L12
+Change Component Designator: OldDesignator=L? NewDesignator=L13
+Change Component Designator: OldDesignator=L? NewDesignator=L14
+Change Component Designator: OldDesignator=L? NewDesignator=L15
+Change Component Designator: OldDesignator=L? NewDesignator=L16
+Change Component Designator: OldDesignator=L? NewDesignator=L17
+Change Component Designator: OldDesignator=L? NewDesignator=L18
+Change Component Designator: OldDesignator=L? NewDesignator=L19
+Change Component Designator: OldDesignator=L? NewDesignator=L20
+Change Component Designator: OldDesignator=L? NewDesignator=L21
+Change Component Designator: OldDesignator=L? NewDesignator=L22
+Change Component Designator: OldDesignator=L? NewDesignator=L23
+Change Component Designator: OldDesignator=L? NewDesignator=L24
+Change Component Designator: OldDesignator=L? NewDesignator=L25
+Change Component Designator: OldDesignator=L? NewDesignator=L26
+Change Component Designator: OldDesignator=L? NewDesignator=L27
+Change Component Designator: OldDesignator=L? NewDesignator=L28
+Change Component Designator: OldDesignator=L? NewDesignator=L29
+Change Component Designator: OldDesignator=L? NewDesignator=L30
+Change Component Designator: OldDesignator=L? NewDesignator=L31
+Change Component Designator: OldDesignator=L? NewDesignator=L32
+Change Component Designator: OldDesignator=L? NewDesignator=L33
+Change Component Designator: OldDesignator=L? NewDesignator=L34
+Change Component Designator: OldDesignator=L? NewDesignator=L35
+Change Component Designator: OldDesignator=L? NewDesignator=L36
+Change Component Designator: OldDesignator=L? NewDesignator=L37
+Change Component Designator: OldDesignator=L? NewDesignator=L38
+Change Component Designator: OldDesignator=L? NewDesignator=L39
+Change Component Designator: OldDesignator=L? NewDesignator=L40
+Change Component Designator: OldDesignator=L? NewDesignator=L41
+Change Component Designator: OldDesignator=L? NewDesignator=L42
+Change Component Designator: OldDesignator=L? NewDesignator=L43
+Change Component Designator: OldDesignator=L? NewDesignator=L44
+Change Component Designator: OldDesignator=L? NewDesignator=L45
+Change Component Designator: OldDesignator=L? NewDesignator=L46
+Change Component Designator: OldDesignator=L? NewDesignator=L47
+Change Component Designator: OldDesignator=L? NewDesignator=L48
+Change Component Designator: OldDesignator=L? NewDesignator=L49
+Change Component Designator: OldDesignator=L? NewDesignator=L50
+Change Component Designator: OldDesignator=L? NewDesignator=L51
+Change Component Designator: OldDesignator=L? NewDesignator=L52
+Change Component Designator: OldDesignator=L? NewDesignator=L53
+Change Component Designator: OldDesignator=L? NewDesignator=L54
+Change Component Designator: OldDesignator=L? NewDesignator=L55
+Change Component Designator: OldDesignator=L? NewDesignator=L56
+Change Component Designator: OldDesignator=L? NewDesignator=L57
+Change Component Designator: OldDesignator=L? NewDesignator=L58
+Change Component Designator: OldDesignator=L? NewDesignator=L59
+Change Component Designator: OldDesignator=L? NewDesignator=L60
+Change Component Designator: OldDesignator=L? NewDesignator=L61
+Change Component Designator: OldDesignator=L? NewDesignator=L62
+Change Component Designator: OldDesignator=L? NewDesignator=L63
+Change Component Designator: OldDesignator=L? NewDesignator=L64
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL3_1
+Change Net Name : Old Net Name=NetL?_3 New Net Name=NetL1_3
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L2-3
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=L3-3
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=L5-3
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=L6-3
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL6_1 Pin=L7-3
+Added Net: Name=NetL6_1
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=NetL7_1 Pin=L8-3
+Added Net: Name=NetL7_1
+Added Pin To Net: NetName=NetL8_1 Pin=L8-1
+Added Pin To Net: NetName=NetL8_1 Pin=L9-3
+Added Net: Name=NetL8_1
+Added Pin To Net: NetName=NetL9_1 Pin=L9-1
+Added Pin To Net: NetName=NetL9_1 Pin=L10-3
+Added Net: Name=NetL9_1
+Added Pin To Net: NetName=NetL10_1 Pin=L10-1
+Added Pin To Net: NetName=NetL10_1 Pin=L11-3
+Added Net: Name=NetL10_1
+Added Pin To Net: NetName=NetL11_1 Pin=L11-1
+Added Pin To Net: NetName=NetL11_1 Pin=L12-3
+Added Net: Name=NetL11_1
+Added Pin To Net: NetName=NetL12_1 Pin=L12-1
+Added Pin To Net: NetName=NetL12_1 Pin=L13-3
+Added Net: Name=NetL12_1
+Added Pin To Net: NetName=NetL13_1 Pin=L13-1
+Added Pin To Net: NetName=NetL13_1 Pin=L14-3
+Added Net: Name=NetL13_1
+Added Pin To Net: NetName=NetL14_1 Pin=L14-1
+Added Pin To Net: NetName=NetL14_1 Pin=L15-3
+Added Net: Name=NetL14_1
+Added Pin To Net: NetName=NetL15_1 Pin=L15-1
+Added Pin To Net: NetName=NetL15_1 Pin=L16-3
+Added Net: Name=NetL15_1
+Added Pin To Net: NetName=NetL16_1 Pin=L16-1
+Added Pin To Net: NetName=NetL16_1 Pin=L17-3
+Added Net: Name=NetL16_1
+Added Pin To Net: NetName=NetL17_1 Pin=L17-1
+Added Pin To Net: NetName=NetL17_1 Pin=L18-3
+Added Net: Name=NetL17_1
+Added Pin To Net: NetName=NetL18_1 Pin=L18-1
+Added Pin To Net: NetName=NetL18_1 Pin=L19-3
+Added Net: Name=NetL18_1
+Added Pin To Net: NetName=NetL19_1 Pin=L19-1
+Added Pin To Net: NetName=NetL19_1 Pin=L20-3
+Added Net: Name=NetL19_1
+Added Pin To Net: NetName=NetL20_1 Pin=L20-1
+Added Pin To Net: NetName=NetL20_1 Pin=L21-3
+Added Net: Name=NetL20_1
+Added Pin To Net: NetName=NetL21_1 Pin=L21-1
+Added Pin To Net: NetName=NetL21_1 Pin=L22-3
+Added Net: Name=NetL21_1
+Added Pin To Net: NetName=NetL22_1 Pin=L22-1
+Added Pin To Net: NetName=NetL22_1 Pin=L23-3
+Added Net: Name=NetL22_1
+Added Pin To Net: NetName=NetL23_1 Pin=L23-1
+Added Pin To Net: NetName=NetL23_1 Pin=L24-3
+Added Net: Name=NetL23_1
+Added Pin To Net: NetName=NetL24_1 Pin=L24-1
+Added Pin To Net: NetName=NetL24_1 Pin=L25-3
+Added Net: Name=NetL24_1
+Added Pin To Net: NetName=NetL25_1 Pin=L25-1
+Added Pin To Net: NetName=NetL25_1 Pin=L26-3
+Added Net: Name=NetL25_1
+Added Pin To Net: NetName=NetL26_1 Pin=L26-1
+Added Pin To Net: NetName=NetL26_1 Pin=L27-3
+Added Net: Name=NetL26_1
+Added Pin To Net: NetName=NetL27_1 Pin=L27-1
+Added Pin To Net: NetName=NetL27_1 Pin=L28-3
+Added Net: Name=NetL27_1
+Added Pin To Net: NetName=NetL28_1 Pin=L28-1
+Added Pin To Net: NetName=NetL28_1 Pin=L29-3
+Added Net: Name=NetL28_1
+Added Pin To Net: NetName=NetL29_1 Pin=L29-1
+Added Pin To Net: NetName=NetL29_1 Pin=L30-3
+Added Net: Name=NetL29_1
+Added Pin To Net: NetName=NetL30_1 Pin=L30-1
+Added Pin To Net: NetName=NetL30_1 Pin=L31-3
+Added Net: Name=NetL30_1
+Added Pin To Net: NetName=NetL31_1 Pin=L31-1
+Added Pin To Net: NetName=NetL31_1 Pin=L32-3
+Added Net: Name=NetL31_1
+Added Pin To Net: NetName=NetL32_1 Pin=L32-1
+Added Pin To Net: NetName=NetL32_1 Pin=L33-3
+Added Net: Name=NetL32_1
+Added Pin To Net: NetName=NetL33_1 Pin=L33-1
+Added Pin To Net: NetName=NetL33_1 Pin=L34-3
+Added Net: Name=NetL33_1
+Added Pin To Net: NetName=NetL34_1 Pin=L34-1
+Added Pin To Net: NetName=NetL34_1 Pin=L35-3
+Added Net: Name=NetL34_1
+Added Pin To Net: NetName=NetL35_1 Pin=L35-1
+Added Pin To Net: NetName=NetL35_1 Pin=L36-3
+Added Net: Name=NetL35_1
+Added Pin To Net: NetName=NetL36_1 Pin=L36-1
+Added Pin To Net: NetName=NetL36_1 Pin=L37-3
+Added Net: Name=NetL36_1
+Added Pin To Net: NetName=NetL37_1 Pin=L37-1
+Added Pin To Net: NetName=NetL37_1 Pin=L38-3
+Added Net: Name=NetL37_1
+Added Pin To Net: NetName=NetL38_1 Pin=L38-1
+Added Pin To Net: NetName=NetL38_1 Pin=L39-3
+Added Net: Name=NetL38_1
+Added Pin To Net: NetName=NetL39_1 Pin=L39-1
+Added Pin To Net: NetName=NetL39_1 Pin=L40-3
+Added Net: Name=NetL39_1
+Added Pin To Net: NetName=NetL40_1 Pin=L40-1
+Added Pin To Net: NetName=NetL40_1 Pin=L41-3
+Added Net: Name=NetL40_1
+Added Pin To Net: NetName=NetL41_1 Pin=L41-1
+Added Pin To Net: NetName=NetL41_1 Pin=L42-3
+Added Net: Name=NetL41_1
+Added Pin To Net: NetName=NetL42_1 Pin=L42-1
+Added Pin To Net: NetName=NetL42_1 Pin=L43-3
+Added Net: Name=NetL42_1
+Added Pin To Net: NetName=NetL43_1 Pin=L43-1
+Added Pin To Net: NetName=NetL43_1 Pin=L44-3
+Added Net: Name=NetL43_1
+Added Pin To Net: NetName=NetL44_1 Pin=L44-1
+Added Pin To Net: NetName=NetL44_1 Pin=L45-3
+Added Net: Name=NetL44_1
+Added Pin To Net: NetName=NetL45_1 Pin=L45-1
+Added Pin To Net: NetName=NetL45_1 Pin=L46-3
+Added Net: Name=NetL45_1
+Added Pin To Net: NetName=NetL46_1 Pin=L46-1
+Added Pin To Net: NetName=NetL46_1 Pin=L47-3
+Added Net: Name=NetL46_1
+Added Pin To Net: NetName=NetL47_1 Pin=L47-1
+Added Pin To Net: NetName=NetL47_1 Pin=L48-3
+Added Net: Name=NetL47_1
+Added Pin To Net: NetName=NetL48_1 Pin=L48-1
+Added Pin To Net: NetName=NetL48_1 Pin=L49-3
+Added Net: Name=NetL48_1
+Added Pin To Net: NetName=NetL49_1 Pin=L49-1
+Added Pin To Net: NetName=NetL49_1 Pin=L50-3
+Added Net: Name=NetL49_1
+Added Pin To Net: NetName=NetL50_1 Pin=L50-1
+Added Pin To Net: NetName=NetL50_1 Pin=L51-3
+Added Net: Name=NetL50_1
+Added Pin To Net: NetName=NetL51_1 Pin=L51-1
+Added Pin To Net: NetName=NetL51_1 Pin=L52-3
+Added Net: Name=NetL51_1
+Added Pin To Net: NetName=NetL52_1 Pin=L52-1
+Added Pin To Net: NetName=NetL52_1 Pin=L53-3
+Added Net: Name=NetL52_1
+Added Pin To Net: NetName=NetL53_1 Pin=L53-1
+Added Pin To Net: NetName=NetL53_1 Pin=L54-3
+Added Net: Name=NetL53_1
+Added Pin To Net: NetName=NetL54_1 Pin=L54-1
+Added Pin To Net: NetName=NetL54_1 Pin=L55-3
+Added Net: Name=NetL54_1
+Added Pin To Net: NetName=NetL55_1 Pin=L55-1
+Added Pin To Net: NetName=NetL55_1 Pin=L56-3
+Added Net: Name=NetL55_1
+Added Pin To Net: NetName=NetL56_1 Pin=L56-1
+Added Pin To Net: NetName=NetL56_1 Pin=L57-3
+Added Net: Name=NetL56_1
+Added Pin To Net: NetName=NetL57_1 Pin=L57-1
+Added Pin To Net: NetName=NetL57_1 Pin=L58-3
+Added Net: Name=NetL57_1
+Added Pin To Net: NetName=NetL58_1 Pin=L58-1
+Added Pin To Net: NetName=NetL58_1 Pin=L59-3
+Added Net: Name=NetL58_1
+Added Pin To Net: NetName=NetL59_1 Pin=L59-1
+Added Pin To Net: NetName=NetL59_1 Pin=L60-3
+Added Net: Name=NetL59_1
+Added Pin To Net: NetName=NetL60_1 Pin=L60-1
+Added Pin To Net: NetName=NetL60_1 Pin=L61-3
+Added Net: Name=NetL60_1
+Added Pin To Net: NetName=NetL61_1 Pin=L61-1
+Added Pin To Net: NetName=NetL61_1 Pin=L62-3
+Added Net: Name=NetL61_1
+Added Pin To Net: NetName=NetL62_1 Pin=L62-1
+Added Pin To Net: NetName=NetL62_1 Pin=L63-3
+Added Net: Name=NetL62_1
+Added Pin To Net: NetName=NetL63_1 Pin=L63-1
+Added Pin To Net: NetName=NetL63_1 Pin=L64-3
+Added Net: Name=NetL63_1
+Added Member To Class: ClassName=MiniScreen Member=Component L1 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L2 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L3 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L4 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L5 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L6 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L7 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L8 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L9 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L10 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L11 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L12 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L13 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L14 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L15 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L16 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L17 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L18 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L19 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L20 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L21 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L22 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L23 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L24 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L25 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L26 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L27 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L28 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L29 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L30 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L31 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L32 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L33 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L34 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L35 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L36 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L37 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L39 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L40 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L41 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L42 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L43 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L44 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L45 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L46 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L47 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L48 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L49 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L50 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L51 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L52 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L53 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L54 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L55 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L56 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L57 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L58 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L59 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L60 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L61 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L62 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L63 WS2812-2020
+Added Member To Class: ClassName=MiniScreen Member=Component L64 WS2812-2020
