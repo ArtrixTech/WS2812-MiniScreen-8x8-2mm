@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\AltiumProjects\MiniScreen\WS2812-MiniScreen\MiniScreen.PcbDoc
 Date     : 7/27/2022
-Time     : 5:01:58 PM
+Time     : 5:24:27 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -46,8 +46,8 @@ Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=2mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 2mil) Between Text "GND" (2666.697mil,4332.566mil) on Top Overlay And Track (2717.373mil,4296.314mil)(2717.373mil,4326.142mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 2mil) Between Text "VCC" (3292.878mil,4332.566mil) on Top Overlay And Track (3342.292mil,4296.314mil)(3342.292mil,4326.608mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 2mil) Between Text "GND" (246.697mil,1077.566mil) on Top Overlay And Track (297.373mil,1041.314mil)(297.373mil,1071.142mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 2mil) Between Text "VCC" (872.878mil,1077.566mil) on Top Overlay And Track (922.292mil,1041.314mil)(922.292mil,1071.608mil) on Top Overlay Silk Text to Silk Clearance [0mil]
 Rule Violations :2
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)

@@ -2,8 +2,35 @@
 FileName = MiniScreen.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Pad Master
-      File : MiniScreen.GPT
+Generating : Bottom Layer
+      File : MiniScreen.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Tenting
+      File : MiniScreen.GM4
+
+    Adding Layer      : Top Tenting
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : MiniScreen.GTL
 
     Adding Layer      : Top Layer
 
@@ -11,9 +38,47 @@ Generating : Top Pad Master
 
 
 Used DCodes :
+    D10
     D12
+    D16
+    D17
     D18
     D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : MiniScreen.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : MiniScreen.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : MiniScreen.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
 *************************************************************
 
 *************************************************************
@@ -29,8 +94,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : MiniScreen.GPB
+Generating : Top Pad Master
+      File : MiniScreen.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MiniScreen.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -38,8 +119,35 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D18
-    D19
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MiniScreen.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MiniScreen.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -58,120 +166,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : MiniScreen.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : MiniScreen.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : MiniScreen.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Top Tenting
-      File : MiniScreen.GM4
-
-    Adding Layer      : Top Tenting
-
-
-Used DCodes :
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : MiniScreen.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : MiniScreen.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D17
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : MiniScreen.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : MiniScreen.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Drill Drawing
       File : MiniScreen.GD1
 
@@ -182,9 +176,9 @@ Generating : Drill Drawing
 
 Used DCodes :
     D10
-    D17
-    D23
-    D24
+    D16
+    D21
+    D22
 *************************************************************
 
 *************************************************************
@@ -197,6 +191,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D23
+    D21
 *************************************************************
 
